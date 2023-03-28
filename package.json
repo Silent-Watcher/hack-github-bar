@@ -1,0 +1,15 @@
+{
+  "name": "hack_github_bar",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jsonfile": "^6.1.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "simple-git": "^3.17.0"
+  }
+}
